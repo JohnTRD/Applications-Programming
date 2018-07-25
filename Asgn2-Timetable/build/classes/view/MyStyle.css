@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/05/2016, 4:33:50 AM
+    Author     : johna_000
+*/
+.header{
+    -fx-padding: 20 20 20 20;
+    -fx-background-color: #0099cc;
+}
+
+.heading{
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial";
+    -fx-fill: #ffffff;
+
+}
+
+.label{
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+.root{
+
+}
+
+.list{
+
+}
+
+Button{
+    -fx-background-color: #0099cc;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+Button:hover{
+    -fx-background-color: #00bfff;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+.footer{
+    -fx-padding: 10px;
+    -fx-background-color: #252b2b;
+}
+
+.content{
+    -fx-padding: 10px;
+    -fx-background-color: #00749b;
+    -fx-text-fill: #ffffff;
+}
+
+.text{
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+}
+
